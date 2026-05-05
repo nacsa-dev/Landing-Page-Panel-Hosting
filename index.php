@@ -76,9 +76,9 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
         </div>
     </div>
     <script>
-        AOS.init({ duration: 800, once: true });
+        AOS.init({ duration: 900, once: true });
         lucide.createIcons();
-        // Implementasi Dark Mode dan Sidebar Toggle (Salin dari dashboard.php jika diperlukan)
+        // Implementasi Dark Mode dan Sidebar Toggle (Salin dari dashboard.php jika diperlukan ya)
     </script>
 </body>
 </html>
