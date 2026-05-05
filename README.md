@@ -1,3 +1,3 @@
-Example Landing Page 
+Example Landing Page Hosting Panel
 <!-- minor update -->
-s
+
